@@ -1,0 +1,21 @@
+header{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	padding-left: 20px;
+}
+
+section{
+	float: left;
+	width: 70%;
+	padding: 10px;
+	padding-left: 20px;
+}
+
+aside{
+	background-color: #;
+	float: right;
+	padding: 10px;
+	padding-left: 20px;
+	
+}
